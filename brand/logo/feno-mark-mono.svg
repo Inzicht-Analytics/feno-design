@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Feno mark, one colour">
+<circle cx="76" cy="24" r="8" fill="currentColor"/>
+<path d="M22 80 C22 54 40 34 66 32 C68 58 50 80 22 80 Z" fill="currentColor"/>
+<path d="M28 74 L58 44" stroke="var(--plate, #187640)" stroke-width="4" stroke-linecap="round" fill="none"/>
+</svg>
